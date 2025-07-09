@@ -6,13 +6,6 @@
 <h3 align="center">Ex-Apple iOS Engineer • Upwork Top 1 % • 50 + Apps Shipped</h3>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~sagarMutha">Upwork</a> •
-  <a href="https://apps.apple.com/us/developer/sagar-mutha/id►yourID">App Store</a> •
-  <a href="mailto:sagar@brewapps.ai">Email</a> •
-  <a href="https://twitter.com/sagar2305">X/Twitter</a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/sagar-mutha/">LinkedIn</a> •
   <a href="https://www.upwork.com/freelancers/sagarios">Upwork</a> •
   <a href="mailto:sagar@thebrewapps.com">Email</a> •
