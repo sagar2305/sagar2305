@@ -73,7 +73,7 @@
 ## 💌  Let’s Talk
 
 **Got an idea or a stuck roadmap?**  
-Drop me a line at **sagar@brewapps.ai** or DM on [Upwork](https://www.upwork.com/freelancers/~sagarMutha).  
+Drop me a line at **sagar@thebrewapps.com** or DM on [Upwork](https://www.upwork.com/freelancers/sagarios).  
 I reply within 24 h—usually with a quick loom of how I’d tackle it.
 
 ---
